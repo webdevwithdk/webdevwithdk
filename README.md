@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwakar chaurasiya</h1>
-<h3 align="center">Hey thanks for coming on my profile,A inthusiast frontend developer from India,I an very passionate about learning and implementing new things ...</h3>
+<h3 align="center">Hey thanks for coming on my profile,An inthusiast frontend developer from India,I am very passionate about learning and implementing new things ...</h3>
 
 - 🔭 I’m currently working on *Javascript todo list*
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *Css, Javascript*
 
-- 📫 How to reach me *divakarbmj123@gmail.com*
+- 📫 How to reach me *engdiwakarchaurasiya@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
