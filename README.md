@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwakar chaurasiya</h1>
 <h3 align="center">Hey thanks for coming on my profile,An inthusiast frontend developer from India,I am very passionate about learning and implementing new things ...</h3>
 
-- 🔭 I’m currently working on *Javascript todo list*
+- 🔭 I’m currently making proejcts *by using javascript*
 
 - 🌱 I’m currently learning *Javascript,(ES6)*
 
